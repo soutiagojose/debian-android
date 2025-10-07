@@ -3,5 +3,5 @@
 
 ## XFCE4
 ```bash
-curl -O https://raw.githubusercontent.com/soutiagojose/debian-android/refs/heads/main/install-xfce.sh | bash
+curl -O https://raw.githubusercontent.com/soutiagojose/debian-android/refs/heads/main/install-xfce.sh && chmod +x install-xfce.sh && bash install-xfce.sh
 ```
